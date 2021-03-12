@@ -1,10 +1,7 @@
 * Toysk
 Do you like Chez Scheme?
-
 Do you like GTK?
-
 Do you want to build apps with them?
-
 
 Here is toysk.
 
