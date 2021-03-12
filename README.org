@@ -15,8 +15,9 @@ Here is toysk.
 | Pack app into deb, rpm & pkg.tar.zst |
 
 * Installation
-
-
+|        | 2021-03-20 |                      |           |              |           |
+| v1.0.0 | 2021-03-20 | First stable release | Fedora 33 | Ubuntu 20.04 | Archlinux |
+|        |            |                      |           |              |           |
   
 * Getting Started
 
