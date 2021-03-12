@@ -1,16 +1,15 @@
 toysk
 
-* 简介
 
-toysk
-
-* 功能
-
-
-
-* 安装
-
+* Features
+| make CLI apps with Chez Scheme       |
+| make GUI apps with Chez Scheme & GTK |
+| Write all code in Chez scheme only   |
+| compile app into one binary          |
+| pack app into DEB, RPM & PKG.TAR.ZST |
+* Installation
 
 
-* 使用
+  
+* Getting Started
 
