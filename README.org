@@ -36,12 +36,8 @@ sudo dnf install toysk*.rpm
 - Ubuntu 20.04
 #+begin_src sh
 sudo apt install chezscheme
+
 sudo apt install toysk*.deb
 #+end_src
 
-- Archlinux
-
-Toysk is a CLI app. You can run 'toysk' in the terminal.
-
-* Getting Started
-
+Toysk is a CLI app. You can run 'toysk' in the terminal after installation.
