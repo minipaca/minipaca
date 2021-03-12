@@ -15,9 +15,33 @@ Here is toysk.
 | Pack app into deb, rpm & pkg.tar.zst |
 
 * Installation
-|        | 2021-03-20 |                      |           |              |           |
-| v1.0.0 | 2021-03-20 | First stable release | Fedora 33 | Ubuntu 20.04 | Archlinux |
-|        |            |                      |           |              |           |
-  
+|              |       | 2021-03-20 |
+|--------------+-------+------------|
+| Fedora 33    | amd64 |     [[https://github.com/toysk/toysk][v1.0.0]] |
+| Ubuntu 20.04 | amd64 |            |
+| Archlinux    | amd64 |            |
+
+Download package from the table above for your distro.
+
+Then install it in the terminal according the following instruction.
+
+- Fedora 33
+#+begin_src sh
+sudo dnf copr enable superboum/chez-scheme
+sudo dnf install chez-scheme
+
+sudo dnf install toysk*.rpm
+#+end_src
+
+- Ubuntu 20.04
+#+begin_src sh
+sudo apt install chezscheme
+sudo apt install toysk*.deb
+#+end_src
+
+- Archlinux
+
+Toysk is a CLI app. You can run 'toysk' in the terminal.
+
 * Getting Started
 
