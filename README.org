@@ -15,15 +15,12 @@ Here is toysk.
 | Pack app into deb, rpm & pkg.tar.zst |
 
 * Installation
-|              |       | 2021-03-20 |
-|--------------+-------+------------|
-| Fedora 33    | amd64 |     [[https://github.com/toysk/toysk][v1.0.0]] |
-| Ubuntu 20.04 | amd64 |            |
-| Archlinux    | amd64 |            |
+| 2021-03-20 | [[https://github.com/toysk/toysk/tree/master/v1.0.0/download.org][v1.0.0]] | First stable release |
+|            |        |                      |
 
 Download package from the table above for your distro.
 
-Then install it in the terminal according the following instruction.
+Then install it in the terminal according to the following instructions.
 
 - Fedora 33
 #+begin_src sh
