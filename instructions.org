@@ -1,0 +1,16 @@
+** Distros
+
+- Fedora 33
+#+begin_src sh
+sudo dnf copr enable superboum/chez-scheme
+sudo dnf install chez-scheme
+
+sudo dnf install toysk*.rpm
+#+end_src
+
+- Ubuntu 20.04
+#+begin_src sh
+sudo apt install chezscheme
+
+sudo apt install toysk*.deb
+#+end_src
