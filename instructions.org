@@ -1,4 +1,4 @@
-** Distros
+** Instructions
 
 - Fedora 33
 #+begin_src sh

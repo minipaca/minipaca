@@ -1,8 +1,10 @@
-** v1.0.0
-| Fedora 33 amd64        |
-| Ubuntu 20.10 amd64     |
-| Debian 10 amd64        |
-| Manjaro amd64          |
-| openSUSE Leap 15 amd64 |
-| Deepin amd64           |
-| Centos amd64           |
+** v1.0.0 amd64
+| Fedora 33           | Fedora 34    |
+| Ubuntu 20.10        | Ubuntu 21.04 |
+| Manjaro             |              |
+|---------------------+--------------|
+| Debian 10           | Debian 11    |
+| openSUSE Tumbleweed |              |
+| Deepin              |              |
+| Centos              |              |
+
