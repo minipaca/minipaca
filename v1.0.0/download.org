@@ -1,11 +1,12 @@
 ** v1.0.0 amd64
 | Fedora 33    | Fedora 34    |
 | Ubuntu 20.10 | Ubuntu 21.04 |
-| Manjaro      |              |
+| Debian 10    | Debian 11    |
 |              |              |
 
-| Debian 10           | Debian 11 |
-| openSUSE Tumbleweed |           |
-| Deepin              |           |
-| Centos              |           |
+| Manjaro             |
+| openSUSE Tumbleweed |
+| Deepin              |
+| Centos              |
+|                     |
 
