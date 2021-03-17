@@ -19,7 +19,7 @@ Here is toysk.
 |            |        |                      |
 |            |        |                      |
 
-Download package from the table above for your distro.
+Download package from the above table.
 
 Then install it in the terminal according to the [[https://github.com/toysk/toysk/blob/master/instructions.org][instructions]].
 
