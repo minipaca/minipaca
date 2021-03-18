@@ -22,41 +22,50 @@ Before installing 'toysk' you have to add a third-party repo:
 sudo dnf copr enable superboum/chez-scheme
 #+end_src
 
+Then:
 #+begin_src sh
 sudo dnf install toysk*.rpm
 #+end_src
 
 - Centos
 Before installing 'toysk' you have to add a third-party repo:
+
 [You only need to do these once.]
 #+begin_src sh
 sudo dnf copr enable superboum/chez-scheme
 #+end_src
 
+Then:
 #+begin_src sh
 sudo dnf install toysk*.rpm
 #+end_src
 
 - openSUSE Tumbleweed
 Before installing 'toysk' you have to add a third-party repo:
+
 [You only need to do these once.]
 #+begin_src sh
 sudo zypper addrepo https://download.opensuse.org/repositories/home:nuklly/openSUSE_Tumbleweed/home:nuklly.repo
 #+end_src
 
+Then:
 #+begin_src sh
 sudo zypper install toysk*.rpm
 #+end_src
 
 - Manjaro
 Before installing 'toysk' you have to add a third-party repo:
+
 [You only need to do these once.]
+
 Add reop:
 #+begin_src
 [archlinuxcn]
 Server = https://repo.archlinuxcn.org/$arch
 #+end_src
+to '/etc/pacman.conf' file.
 
+Then:
 #+begin_src sh
 sudo pacman -S toysk*.pkg.tar.zst
 #+end_src
