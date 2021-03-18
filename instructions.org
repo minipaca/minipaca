@@ -17,6 +17,7 @@ sudo apt install toysk*.deb
 
 - Fedora 33 34
 Before installing 'toysk' you have to add a third-party repo:
+
 [You only need to do these once.]
 #+begin_src sh
 sudo dnf copr enable superboum/chez-scheme
