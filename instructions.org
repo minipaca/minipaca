@@ -2,33 +2,20 @@
 
 - Debian 10 11
 #+begin_src sh
-sudo apt install toysk*.deb
+sudo dpkg -i install toysk*.deb
 #+end_src
 
 - Ubuntu 20.10 21.04
 #+begin_src sh
-sudo apt install toysk*.deb
+sudo dpkg -i toysk*.deb
 #+end_src
 
 - Deepin
 #+begin_src sh
-sudo apt install toysk*.deb
+sudo dpkg -i toysk*.deb
 #+end_src
 
 - Fedora 33 34
-Before installing 'toysk' you have to add a third-party repo:
-
-[You only need to do these once.]
-#+begin_src sh
-sudo dnf copr enable superboum/chez-scheme
-#+end_src
-
-Then:
-#+begin_src sh
-sudo dnf install toysk*.rpm
-#+end_src
-
-- Centos
 Before installing 'toysk' you have to add a third-party repo:
 
 [You only need to do these once.]
@@ -68,5 +55,5 @@ to '/etc/pacman.conf' file.
 
 Then:
 #+begin_src sh
-sudo pacman -S toysk*.pkg.tar.zst
+sudo pacman -U toysk*.pkg.tar.zst
 #+end_src
