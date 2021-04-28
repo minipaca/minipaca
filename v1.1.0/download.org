@@ -1,0 +1,13 @@
+** v1.1.0 amd64
+- 
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk-1.1.0-fc33-x86_64.rpm][Fedora 33]]    | [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk-1.1.0-fc34-x86_64.rpm][Fedora 34]]    |
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk_1.1.0_ub20.10_amd64.deb][Ubuntu 20.10]] | Ubuntu 21.04 |
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk_1.1.0_debian-10_amd64.deb][Debian 10]]    | Debian 11    |
+
+- 
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk-1.1.0-eos-x86_64.pkg.tar.zst][EndeavourOS]]         |
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk-1.1.0-manjaro-x86_64.pkg.tar.zst][Manjaro]]             |
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk-1.1.0-opensuse-tw-x86_64.rpm][openSUSE Tumbleweed]] |
+| [[https://github.com/toysk/toysk/raw/master/v1.1.0/toysk_1.1.0_deepin_amd64.deb][Deepin]]              |
+
+

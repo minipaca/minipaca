@@ -15,9 +15,8 @@ Here is toysk.
 | Pack app into deb, rpm & pkg.tar.zst |
 
 * Installation
-| 2021-03-20 | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][v1.0.0]] | First stable release |
-|            |        |                      |
-|            |        |                      |
+| 2021-03-20 | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][v1.0.0]] | First stable release          |
+| 2021-04-28 | [[https://github.com/toysk/toysk/blob/master/v1.1.0/download.org][v1.1.0]] | Add deb & pkg.tar.zst support |
 
 Download package from the above table.
 
