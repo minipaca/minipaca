@@ -26,6 +26,12 @@ sudo pacman xx.pkg.tar.zst
 sudo dpkg -i xx.deb
 #+end_src
 
+- Fedora-35
+#+begin_src shell
+sudo dnf copr enable superboum/chez-scheme
+sudo dnf install xx.rpm
+#+end_src
+
 
 | 2021-03-20 | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][v1.0.0]] | First stable release          |
 | 2021-04-28 | [[https://github.com/toysk/toysk/blob/master/v1.1.0/download.org][v1.1.0]] | Add deb & pkg.tar.zst support |
