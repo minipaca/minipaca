@@ -34,8 +34,13 @@ sudo dnf copr enable superboum/chez-scheme
 sudo dnf install xx.rpm
 #+end_src
 
+- openSUSE Tumbleweed
+#+begin_src shell
+sudo zypper addrepo https://download.opensuse.org/repositories/home:nuklly/openSUSE_Tumbleweed/home:nuklly.repo
+sudo zypper install xx.rpm
+#+end_src
+
 * Download
 
 | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux amd64]]    | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][EndeavourOS amd64]]  | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Manjaro amd64]]   |
 | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.04 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.10 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora-35 amd64]] |
-
