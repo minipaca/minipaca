@@ -36,6 +36,6 @@ sudo dnf install xx.rpm
 
 * Download
 
-| [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][ArchLinux amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][EndeavourOS amd64]] |         [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Manjaro amd64]]  |
-| [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Ubuntu-21.04 amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.1.0/download.org][Ubuntu-21.10 amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Fedora-35 amd64]] |
+| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux amd64]]    | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][EndeavourOS amd64]]  | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Manjaro amd64]]   |
+| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.04 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.10 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora-35 amd64]] |
 
