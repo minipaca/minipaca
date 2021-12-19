@@ -8,11 +8,11 @@ Do you want to build apps with them?
 Here is fixder.
 
 * Features
-| Make CLI apps with Chez Scheme       |
-| Make GUI apps with Chez Scheme & GTK |
-| Write all code in Chez scheme only   |
-| Compile app into one binary          |
-| Pack app into deb, rpm & pkg.tar.zst |
+| Make CLI and GUI apps              |
+| Write all code in Chez scheme only |
+| Compile app into one binary        |
+| Make packages for Linux            |
+| More features for advanced users   |
 
 * Installation
 | 2021-03-20 | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][v1.0.0]] | First stable release          |
