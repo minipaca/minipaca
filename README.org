@@ -1,4 +1,5 @@
 * Fixder
+
 Do you like Chez Scheme?
 
 Do you like GTK4?
@@ -8,6 +9,7 @@ Do you want to build apps with them?
 Here is fixder.
 
 * Features
+
 | Make CLI and GUI apps              |
 | Write all code in Chez scheme only |
 | Compile app into one binary        |
@@ -32,12 +34,8 @@ sudo dnf copr enable superboum/chez-scheme
 sudo dnf install xx.rpm
 #+end_src
 
+* Download
 
-| 2021-03-20 | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][v1.0.0]] | First stable release          |
-| 2021-04-28 | [[https://github.com/toysk/toysk/blob/master/v1.1.0/download.org][v1.1.0]] | Add deb & pkg.tar.zst support |
+| [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][ArchLinux amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][EndeavourOS amd64] |         [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Manjaro amd64]]  |
+| [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Ubuntu-21.04 amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.1.0/download.org][Ubuntu-21.10 amd64]] | [[https://github.com/toysk/toysk/blob/master/v1.0.0/download.org][Fedora-35 amd64]] |
 
-Download package from the above table.
-
-Then install it according to the [[https://github.com/toysk/toysk/blob/master/instructions.org][instructions]].
-
-Toysk is a CLI app. You can run it in the terminal.
