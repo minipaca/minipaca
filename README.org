@@ -18,14 +18,14 @@ Here is fixder.
 
 * Installation
 
-- ArchLinux EndeavourOS Manjaro
-#+begin_src shell
-sudo pacman xx.pkg.tar.zst
-#+end_src
-
 - Ubuntu-21.04 Ubuntu-21.10
 #+begin_src shell
 sudo dpkg -i xx.deb
+#+end_src
+
+- ArchLinux EndeavourOS Manjaro
+#+begin_src shell
+yay xx.pkg.tar.zst
 #+end_src
 
 - Fedora-35
