@@ -1,9 +1,9 @@
 * Fixder
 
-Do you like Chez Scheme?
-Do you like GTK4?
-Do you want to build apps with them?
-Here is Fixder.
+|Do you like Chez Scheme?|
+|Do you like GTK4?|
+|Do you want to build apps with them?|
+|Here is Fixder.|
 
 * Features
 
