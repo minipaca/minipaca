@@ -1,12 +1,9 @@
 * Fixder
 
 Do you like Chez Scheme?
-
 Do you like GTK4?
-
 Do you want to build apps with them?
-
-Here is fixder.
+Here is Fixder.
 
 * Features
 
@@ -25,7 +22,7 @@ sudo dpkg -i xx.deb
 
 - ArchLinux EndeavourOS Manjaro
 #+begin_src shell
-yay xx.pkg.tar.zst
+yay -U xx.pkg.tar.zst
 #+end_src
 
 - Fedora-35
@@ -41,6 +38,10 @@ sudo zypper install xx.rpm
 #+end_src
 
 * Download
+- amd64/x86_64
+| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux]]    | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][EndeavourOS]]  | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Manjaro]]   |
+| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu 21.04]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu 21.10]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora 35]] |
 
-| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux amd64]]    | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][EndeavourOS amd64]]  | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Manjaro amd64]]   |
-| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.04 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu-21.10 amd64]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora-35 amd64]] |
+- aarch64 (for CLI app only)
+| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux aarch64]]    |
+
