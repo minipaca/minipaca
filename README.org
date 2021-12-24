@@ -38,7 +38,7 @@ sudo zypper install xx.rpm
 #+end_src
 
 * Download
-- amd64/x86_64 (default architecture)
+- amd64/x86_64 (Default architecture)
 | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux]]    | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][EndeavourOS]]  | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Manjaro]]   |
 | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu 21.04]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu 21.10]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora 35]] |
 
