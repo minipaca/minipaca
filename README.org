@@ -40,8 +40,8 @@ sudo zypper install xx.rpm
 * Download
 - amd64/x86_64 (Default architecture)
 | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]    | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-eos-x86_64.pkg.tar.zst][EndeavourOS]] |
-| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Ubuntu 22.04]] | [[https://github.com/fixder-app/fixder/raw/master/p/download.org][Fedora 36]]   |
+| [[https://github.com/fixder-app/fixder/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]] | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-f36-x86_64.rpm][Fedora 36]]   |
 
 - aarch64 (Make CLI apps only now)
-| [[https://github.com/fixder-app/fixder/raw/master/p/download.org][ArchLinux aarch64]] |
+| [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
