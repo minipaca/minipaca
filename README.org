@@ -15,17 +15,17 @@
 
 * Installation
 
-- Ubuntu-21.04 Ubuntu-21.10
+- Ubuntu-21.04 Ubuntu-21.10 Ubuntu-22.04
 #+begin_src shell
 sudo apt install ./xx.deb
 #+end_src
 
-- ArchLinux EndeavourOS Manjaro
+- ArchLinux EndeavourOS
 #+begin_src shell
 yay -U xx.pkg.tar.zst
 #+end_src
 
-- Fedora-35
+- Fedora-35 Fedora-36
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
 sudo dnf install xx.rpm
