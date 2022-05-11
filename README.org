@@ -22,19 +22,19 @@ sudo apt install ./xx.deb
 
 - ArchLinux EndeavourOS
 #+begin_src shell
-yay -U xx.pkg.tar.zst
+yay -U ./xx.pkg.tar.zst
 #+end_src
 
 - Fedora: 35 36
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
-sudo dnf install xx.rpm
+sudo dnf install ./xx.rpm
 #+end_src
 
 - openSUSE Tumbleweed
 #+begin_src shell
 sudo zypper addrepo https://download.opensuse.org/repositories/home:nuklly/openSUSE_Tumbleweed/home:nuklly.repo
-sudo zypper install xx.rpm
+sudo zypper install ./xx.rpm
 #+end_src
 
 * Download
