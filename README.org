@@ -31,13 +31,19 @@ yay -S chez-scheme
 sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
+- ArchLinux(aarch64)
+#+begin_src shell
+yay -S chez-scheme-racket-git
+sudo pacman -U ./xx.pkg.tar.zst
+#+end_src
+
 - Fedora: 35 36
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
 sudo dnf install ./xx.rpm
 #+end_src
 
-- openSUSE Tumbleweed
+- openSUSE: Tumbleweed
 #+begin_src shell
 sudo zypper addrepo https://download.opensuse.org/repositories/home:nuklly/openSUSE_Tumbleweed/home:nuklly.repo
 sudo zypper install ./xx.rpm
