@@ -22,7 +22,8 @@ sudo apt install ./xx.deb
 
 - ArchLinux EndeavourOS
 #+begin_src shell
-yay -U ./xx.pkg.tar.zst
+yay -S chez-scheme
+sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
 - Fedora: 35 36
