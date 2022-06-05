@@ -15,6 +15,11 @@
 
 * Installation
 
+- Debian: testing
+#+begin_src shell
+sudo apt install ./xx.deb
+#+end_src
+
 - Ubuntu: 21.04 21.10 22.04
 #+begin_src shell
 sudo apt install ./xx.deb
