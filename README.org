@@ -25,7 +25,7 @@ sudo apt install ./xx.deb
 sudo apt install ./xx.deb
 #+end_src
 
-- ArchLinux EndeavourOS
+- ArchLinux EndeavourOS Manjaro
 #+begin_src shell
 yay -S chez-scheme
 sudo pacman -U ./xx.pkg.tar.zst
@@ -37,7 +37,7 @@ yay -S chez-scheme-racket-git
 sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- Fedora: 35 36
+- Fedora: 35 36 37
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
 sudo dnf install ./xx.rpm
@@ -57,6 +57,14 @@ sudo zypper install ./xx.rpm
 - amd64/x86_64 (Default architecture)
 | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]    | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-eos-x86_64.pkg.tar.zst][EndeavourOS]] |
 | [[https://github.com/fixder-app/fixder/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]] | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-f36-x86_64.rpm][Fedora 36]]   |
+
+| Fedora 35   | Ubunbu 21.04        |
+| Fedora 36   | Ubuntu 21.10        |
+| Fedora 37   | Ubuntu 22.04        |
+|-------------+---------------------|
+| ArchLinux   | Debian Testing      |
+| EndeavourOS | openSUSE Tumbleweed |
+| Manjaro     |                     |
 
 - aarch64 (Make CLI apps only now)
 | [[https://github.com/fixder-app/fixder/raw/master/p/fixder-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
