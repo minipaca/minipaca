@@ -40,12 +40,12 @@ sudo pacman -U ./xx.pkg.tar.zst
 - Fedora: 35 36 37
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
-sudo dnf install ./xx.rpm
+sudo dnf install ./xx.rpm8
 #+end_src
 
 - openSUSE: Tumbleweed
 #+begin_src shell
-sudo zypper addrepo https://download.opensuse.org/repositories/home:nuklly/openSUSE_Tumbleweed/home:nuklly.repo
+sudo zypper addrepo https://download.opensuse.org/repositories/devel:languages:misc/openSUSE_Tumbleweed/devel:languages:misc.repo
 sudo zypper install ./xx.rpm
 #+end_src
 
@@ -55,7 +55,7 @@ sudo zypper install ./xx.rpm
 | 2022-01-03 | 1.0.0 |
 
 - amd64/x86_64 (Default architecture)
-| Fedora 35   | Ubunbu 21.04        |
+| Fedora 35   | Ubuntu 21.04        |
 | [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-f36-x86_64.rpm][Fedora 36]]   | Ubuntu 21.10        |
 | Fedora 37   | [[https://github.com/manthing-app/manthing/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]]        |
 |             |                     |
@@ -66,3 +66,13 @@ sudo zypper install ./xx.rpm
 - aarch64 (Make CLI apps only now)
 | [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
+* Distros that support GTK4 and Chez Scheme
+|       |           | RPM                 | DEB | PKG.TAR.XZ  |
+|-------+-----------+---------------------+-----+-------------|
+| 9.5.8 |           | openSUSE Tumbleweed |     | ArchLinux   |
+|       |           |                     |     | EndeavourOS |
+|       |           |                     |     | Manjaro     |
+| 9.5.4 | Fedora 35 | Ubuntu 21.04        |     |             |
+|       | Fedora 36 | Ubuntu 21.10        |     |             |
+|       | Fedora 37 | Ubuntu 22.04        |     |             |
+|       |           | Debian Testing      |     |             |
