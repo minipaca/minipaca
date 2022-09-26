@@ -65,7 +65,7 @@ sudo zypper install ./xx.rpm
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-manjaro-x86_64.pkg.tar.zst][Manjaro]]     |                     |
 
 - aarch64 (Make CLI apps only now)
-| [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
 * Distros that support GTK4 and Chez Scheme
 |                  | RPM                           | DEB                                                   | PKG.TAR.XZ                    |
