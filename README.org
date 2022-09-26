@@ -55,9 +55,9 @@ sudo zypper install ./xx.rpm
 | 2022-09-26 | 1.0.0 |
 
 - amd64/x86_64 (Default architecture)
-| Fedora 35   | Ubuntu 21.04        |
-| [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-f36-x86_64.rpm][Fedora 36]]   | Ubuntu 21.10        |
-| Fedora 37   | [[https://github.com/manthing-app/manthing/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]]        |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f35-x86_64.rpm][Fedora 35]]   | Ubuntu 21.04        |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f36-x86_64.rpm][Fedora 36]]   | Ubuntu 21.10        |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f37-x86_64.rpm][Fedora 37]]   | [[https://github.com/manthing-app/manthing/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]]        |
 |             | Debian Testing      |
 |             |                     |
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]   | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-opensusetw-x86_64.rpm][openSUSE Tumbleweed]] |
