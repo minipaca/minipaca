@@ -51,17 +51,17 @@ sudo zypper install ./xx.rpm
 
 * Download
 
-- Versions
-| 2022-01-03 | 1.0.0 |
+- Free Versions
+| 2022-09-26 | 1.0.0 |
 
 - amd64/x86_64 (Default architecture)
 | Fedora 35   | Ubuntu 21.04        |
 | [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-f36-x86_64.rpm][Fedora 36]]   | Ubuntu 21.10        |
 | Fedora 37   | [[https://github.com/manthing-app/manthing/raw/master/p/fixder_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]]        |
 |             |                     |
-| [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]   | Debian Testing      |
-| EndeavourOS | openSUSE Tumbleweed |
-| Manjaro     |                     |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]   | Debian Testing      |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-eos-x86_64.pkg.tar.zst][EndeavourOS]] | openSUSE Tumbleweed |
+| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-manjaro-x86_64.pkg.tar.zst][Manjaro]]     |                     |
 
 - aarch64 (Make CLI apps only now)
 | [[https://github.com/manthing-app/manthing/raw/master/p/fixder-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
