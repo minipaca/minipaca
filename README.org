@@ -43,10 +43,16 @@ sudo dnf copr enable superboum/chez-scheme
 sudo dnf install ./xx.rpm
 #+end_src
 
-- openSUSE: Tumbleweed
+- openSUSE TW
 #+begin_src shell
 sudo zypper addrepo https://download.opensuse.org/repositories/devel:languages:misc/openSUSE_Tumbleweed/devel:languages:misc.repo
 sudo zypper install ./xx.rpm
+#+end_src
+
+- Void Linux
+#+begin_src shell
+xbps-rindex -a xx-version.x86_64.xbps
+sudo xbps-install -R ./ xx-version
 #+end_src
 
 * Download
@@ -68,9 +74,9 @@ sudo zypper install ./xx.rpm
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
 * Distros that support GTK4 and Chez Scheme
-|                  | RPM                           | DEB                                                   | PKG.TAR.XZ                    |
-|------------------+-------------------------------+-------------------------------------------------------+-------------------------------|
-| ChezScheme 9.5.8 | openSUSE_TW                   |                                                       | ArchLinux EndeavourOS Manjaro |
-|                  |                               |                                                       |                               |
-| ChezScheme 9.5.4 | Fedora_35 Fedora_36 Fedora_37 | Ubuntu_21.04 Ubuntu_21.10 Ubuntu_22.04 Debian_Testing |                               |
+| ChezScheme | RPM                           | DEB                                                   | PKG.TAR.XZ                    | XBPS       |
+|------------+-------------------------------+-------------------------------------------------------+-------------------------------+------------|
+|      9.5.8 | openSUSE_TW                   |                                                       | ArchLinux EndeavourOS Manjaro | Void Linux |
+|            |                               |                                                       |                               |            |
+|      9.5.4 | Fedora_35 Fedora_36 Fedora_37 | Ubuntu_21.04 Ubuntu_21.10 Ubuntu_22.04 Debian_Testing |                               |            |
 
