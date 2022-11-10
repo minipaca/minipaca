@@ -83,9 +83,9 @@ sudo xbps-install -R ./ xx-version
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
 * Distros that support GTK4 and Chez Scheme
-| ChezScheme | RPM                           | DEB                                                   | PKG.TAR.XZ                               | XBPS       |
-|------------+-------------------------------+-------------------------------------------------------+------------------------------------------+------------|
-|      9.5.8 | openSUSE_TW                   |                                                       | ArchLinux ArtixLinux BlackArchLinux EndeavourOS Manjaro | Void Linux |
-|            |                               |                                                       |                                          |            |
-|      9.5.4 | Fedora_35 Fedora_36 Fedora_37 | Ubuntu_21.04 Ubuntu_21.10 Ubuntu_22.04 Ubuntu_22.10 Debian_Testing |                                          |            |
+| ChezScheme | RPM                           | DEB                                                 | PKG.TAR.XZ                                              | XBPS      |
+|------------+-------------------------------+-----------------------------------------------------+---------------------------------------------------------+-----------|
+|      9.5.8 | openSUSETW                    | DebianTesting                                       | ArchLinux ArtixLinux BlackArchLinux EndeavourOS Manjaro | VoidLinux |
+|            |                               |                                                     |                                                         |           |
+|      9.5.4 | Fedora_35 Fedora_36 Fedora_37 | Ubuntu_21.04 Ubuntu_21.10 Ubuntu_22.04 Ubuntu_22.10 |                                                         |           |
 
