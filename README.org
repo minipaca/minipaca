@@ -49,7 +49,7 @@ yay -S chez-scheme-racket-git
 sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- Fedora: 35 36 37
+- Fedora: 35 36 37 38
 #+begin_src shell
 sudo dnf copr enable superboum/chez-scheme
 sudo dnf install ./xx.rpm
