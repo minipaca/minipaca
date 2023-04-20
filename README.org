@@ -97,7 +97,7 @@ pkg add -f xx.pkg
 * Distros that support GTK4 and Chez Scheme
 | ChezScheme  | 9.5.4                            | 9.5.8                               |
 |-------------+----------------------------------+-------------------------------------|
-| RPM         | Fedora_35 Fedora_36 Fedora_37    | openSUSETW                          |
+| RPM         | Fedora_35 Fedora_36 Fedora_37 Fedora_38    | openSUSETW                          |
 | DEB         | Ubuntu_21.04 Ubuntu_21.10        | DebianTesting                       |
 |             | Ubuntu_22.04 Ubuntu_22.10 Lite_6 |                                     |
 | PKG.TAR.ZST |                                  | ArchLinux ArtixLinux BlackArchLinux |
