@@ -72,6 +72,11 @@ sudo xbps-install -R ./ xx-version
 pkg add -f xx.pkg
 #+end_src
 
+- Windows: 10 11
+#+begin_src shell
+# Double click the exe files and install
+#+end_src
+
 * Download
 
 - Free Versions
@@ -92,6 +97,8 @@ pkg add -f xx.pkg
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-manjaro-x86_64.pkg.tar.zst][Manjaro]]        |                |
 |                |                |
 | FreeBSD        |                |
+|                |                |
+| Windows_10     | Windows_11     |
 
 - aarch64 (Make CLI apps only now)
 | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
@@ -106,3 +113,4 @@ pkg add -f xx.pkg
 |             |                                         | EndeavourOS Manjaro                 |
 | XBPS        |                                         | VoidLinux                           |
 | PKG         |                                         | FreeBSD                             |
+| EXE         |                                         | Windows_10 Windows_11               |
