@@ -1,3 +1,5 @@
+More information: https://minipaca.github.io
+
 * Installation
 
 - Debian: testing
@@ -73,3 +75,5 @@ pkg add -f xx.pkg
 | XBPS        |                                         | VoidLinux                           |
 | PKG         |                                         | FreeBSD                             |
 | EXE         |                                         | Windows_10 Windows_11               |
+
+More information: https://minipaca.github.io
