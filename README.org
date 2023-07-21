@@ -1,24 +1,3 @@
-* Minipaca
-
-|Do you like Chez Scheme?|
-|Do you like GTK4?|
-|Do you want to build apps with them?|
-|Here is Minipaca. |
-
-* Features
-
-| Make CLI and GUI apps            |
-| Write all code in Chez scheme    |
-| Compile app into one binary file |
-| Make packages for all distros    |
-| Support Linux                    |
-
-* Features for Advanced Users
-
-| Support Linux BSD Windows     |
-| Files embeded into executable |
-| Translations                  |
-
 * Installation
 
 - Debian: testing
@@ -82,32 +61,6 @@ pkg add -f xx.pkg
 #+begin_src shell
 # Double click the exe files and install
 #+end_src
-
-* Download
-
-- Free Versions
-| 2022-09-26 | 1.0.0 |
-
-- amd64/x86_64 (Default architecture)
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f34-x86_64.rpm][Fedora 34]]      | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing_1.0.0_ub2104_amd64.deb][Ubuntu 21.04]]   |
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f35-x86_64.rpm][Fedora 35]]      | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing_1.0.0_ub2110_amd64.deb][Ubuntu 21.10]]   |
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-f36-x86_64.rpm][Fedora 36]]      | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing_1.0.0_ub2204_amd64.deb][Ubuntu 22.04]]   |
-| Fedora 37      | Ubuntu 22.10   |
-| Fedora 38      | Ubuntu 23.04   |
-|                | Lite_6         |
-|                |                |
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-x86_64.pkg.tar.zst][ArchLinux]]      | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing_1.0.0_debiant_amd64.deb][Debian Testing]] |
-| ArtixLinux     | [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-opensusetw-x86_64.rpm][openSUSE TW]]    |
-| BlackArchLinux |                |
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-eos-x86_64.pkg.tar.zst][EndeavourOS]]    |                |
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-manjaro-x86_64.pkg.tar.zst][Manjaro]]        |                |
-|                |                |
-| FreeBSD        |                |
-|                |                |
-| Windows_10     | Windows_11     |
-
-- aarch64 (Make CLI apps only now)
-| [[https://github.com/manthing-app/manthing/raw/master/p/free-manthing-1.0.0-arch-aarch64-any.pkg.tar.zst][ArchLinux aarch64]] |
 
 * Distros that support GTK4 and Chez Scheme
 | ChezScheme  | 9.5.4                                   | 9.5.8                               |
