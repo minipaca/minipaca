@@ -54,7 +54,7 @@ pkg add -f xx.pkg
 | RPM         | Fedora_36 Fedora_37 Fedora_38 | openSUSE_Tumbleweed                   |
 | PKG.TAR.ZST |                               | ArchLinux EndeavourOS                 |
 | XBPS        |                               | VoidLinux                             |
-| PKG         |                               | FreeBSD                               |
+| PKG         |                               | FreeBSD 13                              |
 | EXE         |                               | Windows_10 Windows_11                 |
 
 More information: https://minipaca.github.io
