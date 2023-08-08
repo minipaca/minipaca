@@ -39,7 +39,7 @@ $ sudo xbps-install -R ./ xx-version
 
 - FreeBSD 13+:
 #+begin_src sh
-\# pkg add -f xx.pkg
+pkg add -f xx.pkg    # As root
 #+end_src
 
 - Windows 10+:
