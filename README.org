@@ -3,47 +3,47 @@ More information: https://minipaca.github.io
 * Installation
 
 - Ubuntu 22.04+, Debian 12+, Debian Testing:
-#+begin_src shell
-sudo apt install ./xx.deb
+#+begin_src sh
+$ sudo apt install ./xx.deb
 #+end_src
 
 - Arch Linux, EndeavourOS:
-#+begin_src shell
-yay -S chez-scheme
-sudo pacman -U ./xx.pkg.tar.zst
+#+begin_src sh
+$ yay -S chez-scheme
+$ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
 - Arch Linux (aarch64):
-#+begin_src shell
-yay -S chez-scheme-racket-git
-sudo pacman -U ./xx.pkg.tar.zst
+#+begin_src sh
+$ yay -S chez-scheme-racket-git
+$ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
 - Fedora 36+:
-#+begin_src shell
-sudo dnf copr enable superboum/chez-scheme
-sudo dnf install ./xx.rpm
+#+begin_src sh
+$ sudo dnf copr enable superboum/chez-scheme
+$ sudo dnf install ./xx.rpm
 #+end_src
 
 - openSUSE Tumbleweed:
-#+begin_src shell
-sudo zypper addrepo https://download.opensuse.org/repositories/devel:languages:misc/openSUSE_Tumbleweed/devel:languages:misc.repo
-sudo zypper install ./xx.rpm
+#+begin_src sh
+$ sudo zypper addrepo https://download.opensuse.org/repositories/devel:languages:misc/openSUSE_Tumbleweed/devel:languages:misc.repo
+$ sudo zypper install ./xx.rpm
 #+end_src
 
 - Void Linux:
-#+begin_src shell
-xbps-rindex -a xx-version.x86_64.xbps
-sudo xbps-install -R ./ xx-version
+#+begin_src sh
+$ xbps-rindex -a xx-version.x86_64.xbps
+$ sudo xbps-install -R ./ xx-version
 #+end_src
 
 - FreeBSD 13+:
-#+begin_src shell
-pkg add -f xx.pkg
+#+begin_src sh
+\# pkg add -f xx.pkg
 #+end_src
 
 - Windows 10+:
-#+begin_src shell
+#+begin_src sh
 # Double click the exe files and install
 #+end_src
 
