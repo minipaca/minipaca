@@ -27,7 +27,6 @@ $ sudo dnf install ./xx.rpm
 
 - openSUSE Tumbleweed:
 #+begin_src sh
-$ sudo zypper addrepo https://download.opensuse.org/repositories/devel:languages:misc/openSUSE_Tumbleweed/devel:languages:misc.repo
 $ sudo zypper install ./xx.rpm
 #+end_src
 
@@ -47,11 +46,11 @@ pkg add -f xx.pkg    # As root
 # Double click the exe files and install
 #+end_src
 
-* GTK4 & Chez Scheme support
-| ChezScheme  | 9.5.4                         | 9.5.8                                 | 9.6.2                 |
+* Chez Scheme watcher
+| ChezScheme  | 9.5.4                         |                                 9.5.8 | 9.6.2                 |
 |-------------+-------------------------------+---------------------------------------+-----------------------|
 | DEB         | Ubuntu_22.04 Ubuntu_22.10     | Ubuntu_23.04 Debian_12 Debian_Testing |                       |
-| RPM         | Fedora_36 Fedora_37 Fedora_38 | openSUSE_Tumbleweed                   |                       |
+| RPM         | Fedora_36 Fedora_37 Fedora_38 |                                       | openSUSE_Tumbleweed   |
 | PKG.TAR.ZST |                               |                                       | ArchLinux EndeavourOS |
 | XBPS        |                               |                                       | VoidLinux             |
 | PKG         |                               |                                       | FreeBSD_13            |
