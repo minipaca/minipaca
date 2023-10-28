@@ -56,4 +56,10 @@ pkg add -f xx.pkg    # As root
 | PKG         |                               |                                       |                     | FreeBSD_13            |
 | EXE         |                               |                                       |                     | Windows_10 Windows_11 |
 
+* Distros That Minipaca Long Time Support
+|              |       From |         To |
+|--------------+------------+------------|
+| Ubuntu_22.04 | 2022-04-21 | 2027-04-21 |
+| Debian_12    | 2023-06-10 | 2028-06-10 |
+
 More information: https://minipaca.github.io
