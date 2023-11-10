@@ -67,9 +67,7 @@ pkg add -f xx.pkg    # As root
 | ArchLinux-cs964         | 2024-01-01 | 2025-12-31 |     2 |
 | EndeavourOS-cs964       | 2024-01-01 | 2025-12-31 |     2 |
 | VoidLinux-cs964         | 2024-01-01 | 2025-12-31 |     2 |
-| FreeBSD-13-cs964        | 2024-01-01 | 2025-12-31 |     2 |
 | FreeBSD-14-cs964        | 2024-01-01 | 2025-12-31 |     2 |
-| Windows-10-cs964        | 2024-01-01 | 2025-12-31 |     2 |
 | Windows-11-cs964        | 2024-01-01 | 2025-12-31 |     2 |
 
 More information: https://minipaca.github.io
