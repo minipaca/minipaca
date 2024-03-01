@@ -3,10 +3,10 @@ More information: https://minipaca.github.io
 
 To run minipaca you must have Chez Scheme installed on your operating system. Here is howtos:
 
-- For Ubuntu 22.04, Debian 12, LDME 6 (x86_64/amd64):
+- For Ubuntu 22.04, Debian 12 (x86_64/amd64):
 Chez Scheme is in the official repo, it will be installed automatically
 
-- For Arch Linux, (x86_64/amd64):
+- For Arch Linux (x86_64/amd64):
 Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
 $ sudo pacman -U ./xx.pkg.tar.zst
