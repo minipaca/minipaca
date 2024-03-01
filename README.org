@@ -1,78 +1,47 @@
+Minipaca is a tool to build cross platform apps with Chez Scheme and GTK4.
 More information: https://minipaca.github.io
 
-* Installation
+To run minipaca you must have Chez Scheme installed on your operating system. Here is howtos:
 
-- Ubuntu 22.04+, Debian 12+, LDME 6:
-#+begin_src sh
-$ sudo apt install ./xx.deb
-#+end_src
+- For Ubuntu 22.04, Debian 12, LDME 6 (x86_64/amd64):
+Chez Scheme is in the official repo, it will be installed automatically
 
-- Arch Linux, EndeavourOS:
+- For Arch Linux, (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
-$ yay -S chez-scheme
 $ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- Arch Linux (aarch64):
+- For Arch Linux (aarch64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
-$ yay -S chez-scheme-racket-git
 $ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- Fedora 36+:
+- For Fedora Linux (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
-$ sudo dnf copr enable superboum/chez-scheme
 $ sudo dnf install ./xx.rpm
 #+end_src
 
-- openSUSE Tumbleweed, Slowroll:
+- For openSUSE Linux (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
 $ sudo zypper install ./xx.rpm
 #+end_src
 
-- Void Linux:
+- For Void Linux (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
 $ xbps-rindex -a xx-version.x86_64.xbps
 $ sudo xbps-install -R ./ xx-version
 #+end_src
 
-- FreeBSD 13+:
+- For FreeBSD (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
 #+begin_src sh
 pkg add -f xx.pkg    # As root
 #+end_src
 
-- Windows 10+:
-#+begin_src sh
-# Double click the exe files and install
-#+end_src
-
-* Chez Scheme watcher
-| ChezScheme  | 9.5.4                                   |                                      9.5.8 |                                 9.6.2 | 9.6.4                 |
-|-------------+-----------------------------------------+--------------------------------------------+---------------------------------------+-----------------------|
-| DEB         | Ubuntu_22.04 Ubuntu_22.10               | Ubuntu_23.04 Ubuntu_23.10 Debian_12 LDME_6 |                                       |                       |
-| RPM         | Fedora_36 Fedora_37 Fedora_38 Fedora_39 |                                            | openSUSE_Tumbleweed openSUSE_Slowroll |                       |
-| PKG.TAR.ZST |                                         |                                            |                                       | ArchLinux EndeavourOS |
-| XBPS        |                                         |                                            |                                       | VoidLinux             |
-| PKG         |                                         |                                            |                                       | FreeBSD_13 FreeBSD_14 |
-| EXE         |                                         |                                            |                                       | Windows_10 Windows_11 |
-
-* Distros That Minipaca Long Time Support
-
-** Distros with Fixed Chez Scheme
-|                         |       From |         To | Years |
-|-------------------------+------------+------------+-------|
-| Ubuntu_22.04            | 2022-04-21 | 2027-04-21 |     5 |
-| Debian_12               | 2023-06-10 | 2028-06-10 |     5 |
-
-** Distros with Rolling Chez Scheme
-|                         |       From |         To | Years |
-|-------------------------+------------+------------+-------|
-| Fedora-39-cs954         | 2024-01-01 | 2025-12-31 |     2 |
-| openSUSE-Slowroll-cs962 | 2024-01-01 | 2025-12-31 |     2 |
-| ArchLinux-cs964         | 2024-01-01 | 2025-12-31 |     2 |
-| EndeavourOS-cs964       | 2024-01-01 | 2025-12-31 |     2 |
-| VoidLinux-cs964         | 2024-01-01 | 2025-12-31 |     2 |
-| FreeBSD-14-cs964        | 2024-01-01 | 2025-12-31 |     2 |
-| Windows-11-cs964        | 2024-01-01 | 2025-12-31 |     2 |
-
-More information: https://minipaca.github.io
+- For Windows OS (x86_64/amd64):
+Download Chez Scheme 10.0.0 and install it
