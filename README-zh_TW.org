@@ -1,0 +1,49 @@
+[[https://github.com/minipaca/minipaca/blob/master/README.org][English]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_TW.org][中文正體]]
+
+Minipaca是一個用ChezScheme和GTK4構建跨平台軟體的工具。
+更多資訊請查看：https://minipaca.github.io/cn
+
+要運行Minipaca，你的系統中必須安裝ChezScheme。 這裡是安裝方法：
+
+- *Debian 12, Ubuntu 22.04, Ubuntu 24.04 (x86_64/amd64)*
+ChezScheme在官方倉庫中，它會作為依賴自動安裝。
+
+- *Arch Linux (x86_64/amd64)*
+下载 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-1-x86_64.pkg.tar.zst][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+$ sudo pacman -U ./xx.pkg.tar.zst
+#+end_src
+
+- *Arch Linux (aarch64)*
+下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-1-aarch64.pkg.tar.xz][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+$ sudo pacman -U ./xx.pkg.tar.zst
+#+end_src
+
+- *Fedora Linux (x86_64/amd64)*
+下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-cs10fc-x86_64.rpm][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+$ sudo dnf install ./xx.rpm
+#+end_src
+
+- *openSUSE Linux (x86_64/amd64)*
+下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-cs10opensuse-x86_64.rpm][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+$ sudo zypper install ./xx.rpm
+#+end_src
+
+- *Void Linux (x86_64/amd64)*
+下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0_1.x86_64.xbps][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+$ xbps-rindex -a xx-version.x86_64.xbps
+$ sudo xbps-install -R ./ xx-version
+#+end_src
+
+- *FreeBSD (x86_64/amd64)*
+下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0.pkg][Chez Scheme 10.0.0]] 後安裝
+#+begin_src sh
+pkg add -f xx.pkg    # As root
+#+end_src
+
+- *Windows OS (x86_64/amd64)*
+下載 [[https://github.com/cisco/ChezScheme/releases/download/v10.0.0/ChezScheme10.0.0.exe][Chez Scheme 10.0.0]] 後安裝

@@ -1,48 +1,49 @@
+[[https://github.com/minipaca/minipaca/blob/master/README.org][English]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_TW.org][中文正體]]
 
 Minipaca is a tool to build cross platform apps with Chez Scheme and GTK4.
 More information: https://minipaca.github.io
 
 To run minipaca you must have Chez Scheme installed on your operating system. Here is howtos:
 
-- For Debian 12, Ubuntu 22.04, Ubuntu 24.04 (x86_64/amd64):
+- *Debian 12, Ubuntu 22.04, Ubuntu 24.04 (x86_64/amd64)*
 Chez Scheme is in the official repos, it will be installed automatically
 
-- For Arch Linux (x86_64/amd64):
+- *Arch Linux (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-1-x86_64.pkg.tar.zst][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 $ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- For Arch Linux (aarch64):
+- *Arch Linux (aarch64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-1-aarch64.pkg.tar.xz][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 $ sudo pacman -U ./xx.pkg.tar.zst
 #+end_src
 
-- For Fedora Linux (x86_64/amd64):
+- *Fedora Linux (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-cs10fc-x86_64.rpm][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 $ sudo dnf install ./xx.rpm
 #+end_src
 
-- For openSUSE Linux (x86_64/amd64):
+- *openSUSE Linux (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0-cs10opensuse-x86_64.rpm][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 $ sudo zypper install ./xx.rpm
 #+end_src
 
-- For Void Linux (x86_64/amd64):
+- *Void Linux (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0_1.x86_64.xbps][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 $ xbps-rindex -a xx-version.x86_64.xbps
 $ sudo xbps-install -R ./ xx-version
 #+end_src
 
-- For FreeBSD (x86_64/amd64):
+- *FreeBSD (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/chez-scheme-10.0.0/chez-scheme-10.0.0-10.0.0.pkg][Chez Scheme 10.0.0]] and install it
 #+begin_src sh
 pkg add -f xx.pkg    # As root
 #+end_src
 
-- For Windows OS (x86_64/amd64):
+- *Windows OS (x86_64/amd64)*
 Download [[https://github.com/cisco/ChezScheme/releases/download/v10.0.0/ChezScheme10.0.0.exe][Chez Scheme 10.0.0]] and install it
