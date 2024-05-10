@@ -1,7 +1,7 @@
 [[https://github.com/minipaca/minipaca/blob/master/README.org][English]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_TW.org][中文正體]]
 
 Minipaca是一個用ChezScheme和GTK4構建跨平台軟體的工具。
-更多資訊請查看：https://minipaca.github.io/cn
+更多資訊請查看：https://minipaca.github.io/tw
 
 要運行Minipaca，你的系統中必須安裝ChezScheme。 這裡是安裝方法：
 
