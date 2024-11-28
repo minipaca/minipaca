@@ -56,4 +56,5 @@ pkg_add ./xx.tgz    # As root
 
 - *Windows OS (x86_64/amd64)*
 下載 [[https://raw.githubusercontent.com/minipaca/minipaca/master/10.0.0-7/chez-scheme-10.0.0-10.0.0-7-cs10win.exe][Chez Scheme 10.0.0]] 後安裝
+
 下載 [[https://aka.ms/vs/17/release/VC_redist.x64.exe][VC_redist]] 後安裝

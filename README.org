@@ -56,4 +56,5 @@ Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/10.0.0-7/c
 
 - *Windows OS (x86_64/amd64)*
 Download [[https://raw.githubusercontent.com/minipaca/minipaca/master/10.0.0-7/chez-scheme-10.0.0-10.0.0-7-cs10win.exe][Chez Scheme 10.0.0]] and install it
+
 Download [[https://aka.ms/vs/17/release/VC_redist.x64.exe][VC_redist]] and install it
